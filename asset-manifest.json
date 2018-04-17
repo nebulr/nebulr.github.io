@@ -1,6 +1,7 @@
 {
   "main.css": "static/css/main.bdf1dc50.css",
   "main.css.map": "static/css/main.bdf1dc50.css.map",
+  "JamesMeyerResume.pdf" : "static/media/JamesMeyerResume.4S32Df3D2d.pdf",
   "main.js": "static/js/main.12a43879.js",
   "main.js.map": "static/js/main.12a43879.js.map",
   "static\\media\\fontawesome-webfont.eot?v=4.7.0": "static/media/fontawesome-webfont.674f50d2.eot",
@@ -13,6 +14,5 @@
   "static\\media\\glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
   "static\\media\\glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
   "static\\media\\glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
-  "static\\media\\logo.svg": "static/media/logo.ee7cd8ed.svg",
-  "JamesMeyerResume.pdf" : "JamesMeyerResume.pdf"
+  "static\\media\\logo.svg": "static/media/logo.ee7cd8ed.svg"
 }
